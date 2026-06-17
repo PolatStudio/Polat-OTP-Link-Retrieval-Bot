@@ -35,7 +35,8 @@
 
 جميع الحقوق محفوظة لـ **Polat Studio** © 2026
 
-Telegram: `plt`
+Discord: `engkane`
+
 
 ---
 
@@ -75,5 +76,5 @@ Built for digital stores and streaming services to automate verification code re
 ## 🔒 Copyright
 
 All rights reserved to **Polat Studio** © 2026
+Discord: `engkane`
 
-Telegram: `plt`
